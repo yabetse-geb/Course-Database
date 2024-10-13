@@ -1,14 +1,5 @@
 /*
- * Class: CMSC204 CRN: 32524
- * Instructor: Professor Kuijt
  * Description: This has the code for the data each course should have
- * Due: 3/26/2023
- * Platform/compiler: Eclipse
- * I pledge that I have completed the programming 
- * assignment independently. I have not copied the code 
- * from a student or any source. I have not given my code 
- * to any student.
-   Print your Name here: Yabetse Gebrewold
 */
 public class CourseDBElement implements Comparable<CourseDBElement>{
 
