@@ -1,14 +1,5 @@
 /*
- * Class: CMSC204 CRN: 32524
- * Instructor: Professor Kuijt
  * Description: This manages data with a CourseDBStructure object that acts like a course directory.
- * Due: 3/26/2023
- * Platform/compiler: Eclipse
- * I pledge that I have completed the programming 
- * assignment independently. I have not copied the code 
- * from a student or any source. I have not given my code 
- * to any student.
-   Print your Name here: Yabetse Gebrewold
 */
 import java.io.File;
 import java.io.FileNotFoundException;
